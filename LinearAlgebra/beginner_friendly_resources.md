@@ -9,6 +9,7 @@ Most resources on this site are free or provided with a voluntary contrubution m
 3. [Linear Algebra for Everyone 2020 by Gilbert Strang](https://math.mit.edu/~gs/everyone/)
 4. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
 5. [Linear Algebra Done Right, fourth edition by Sheldon Axler ](https://linear.axler.net/) (online version in this link is free [direct link](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf))
+6. [Linear Algebra 5th Edition by Stephen Friedberg, Arnold Insel, Lawrence Spence](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241)
 
 ### More advanced books
 
@@ -18,6 +19,7 @@ Most resources on this site are free or provided with a voluntary contrubution m
 ## Notes (formulas & short summaries)
 
 1. [MIT ZoomNotes for Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/zoomnotes_18-010/)
+2. [Notes on Linear Algebra by Peter J. Cameron](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf)
 
 ## Online video courses
 
