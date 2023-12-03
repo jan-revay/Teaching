@@ -52,3 +52,4 @@ Most resources on this site are free or provided with a voluntary contrubution m
 6. https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
 7. https://en.wikipedia.org/wiki/Jordan_normal_form
 8. https://en.wikipedia.org/wiki/Trace_(linear_algebra)
+9. https://en.wikipedia.org/wiki/Conformal_linear_transformation
