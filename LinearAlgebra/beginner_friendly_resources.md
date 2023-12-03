@@ -45,9 +45,10 @@ Most resources on this site are free or provided with a voluntary contrubution m
 ## Wikipedia
 
 1. https://en.wikipedia.org/wiki/Linear_map
-2. https://en.wikipedia.org/wiki/Cramer%27s_rule
-3. https://en.wikipedia.org/wiki/Scaling_(geometry)
-4. https://en.wikipedia.org/wiki/Shear_mapping
-5. https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
-6. https://en.wikipedia.org/wiki/Jordan_normal_form
-7. https://en.wikipedia.org/wiki/Trace_(linear_algebra)
+2. https://en.wikipedia.org/wiki/Transformation_matrix
+3. https://en.wikipedia.org/wiki/Cramer%27s_rule
+4. https://en.wikipedia.org/wiki/Scaling_(geometry)
+5. https://en.wikipedia.org/wiki/Shear_mapping
+6. https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
+7. https://en.wikipedia.org/wiki/Jordan_normal_form
+8. https://en.wikipedia.org/wiki/Trace_(linear_algebra)
