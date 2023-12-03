@@ -57,4 +57,4 @@ Most resources on this site are free or provided with a voluntary contrubution m
 ## Basic concepts
 
 1. [Quadratic function basics](https://amsi.org.au/teacher_modules/Quadratic_Function.html#The_Parabola__y_=_x2)
-2. [Using system of linear equations to find interpolation](https://en.wikipedia.org/wiki/Polynomial_interpolation)
+2. [Using system of linear equations to find interpolation polynomial](https://en.wikipedia.org/wiki/Polynomial_interpolation)
