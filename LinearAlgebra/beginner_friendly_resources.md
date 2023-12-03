@@ -10,7 +10,11 @@ Most resources on this site are free or provided with a voluntary contrubution m
 4. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
 5. [Linear Algebra Done Right, fourth edition by Sheldon Axler ](https://linear.axler.net/) (online version in this link is free [direct link](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf))
 6. [Linear Algebra 5th Edition by Stephen Friedberg, Arnold Insel, Lawrence Spence](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241)
-7. [A first course in linear algebra](http://linear.ups.edu/html/fcla.html)
+
+## Online interactive courses
+1. [A first course in linear algebra](http://linear.ups.edu/html/fcla.html)
+2. [Brilliant](https://brilliant.org/) 
+
 
 ### More advanced books
 
