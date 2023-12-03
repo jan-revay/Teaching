@@ -6,8 +6,9 @@ Most resources on this site are free or provided with a voluntary contrubution m
 
 1. [Linear Algebra by Jim Hefferon (leanpub)](https://leanpub.com/linalgebra) (free/voluntary contribution)
 2. [Introduction to Linear Algebra, Sixth Edition (2023) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html) (certain sections of the book are freely avaliable)
-3. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
-4. 
+3. [Linear Algebra for Everyone 2020 by Gilbert Strang](https://math.mit.edu/~gs/everyone/)
+4. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
+5. [Linear Algebra Done Right, fourth edition by Sheldon Axler ](https://linear.axler.net/) (online version in this link is free [direct link](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf))
 
 ### More advanced books
 
@@ -26,7 +27,7 @@ Most resources on this site are free or provided with a voluntary contrubution m
 4. [A 2020 Vision Of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/video_galleries/videos/)
 5. [Gilbert Strang on Eigenvectors and Eigenvalues](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/pages/differential-equations-and-linear-algebra/eigenvalues-and-eigenvectors/)
 6. [Khan academy - section on linear algebra](https://www.khanacademy.org/math/linear-algebra)
-7. 
+7. [Linear Algebra Done Right by Sheldon Axler Videos](https://linear.axler.net/LADRvideos.html)
 
 ## Exercises
 
