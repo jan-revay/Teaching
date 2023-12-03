@@ -62,3 +62,4 @@ Most resources on this site are free or provided with a voluntary contrubution m
 
 1. [Quadratic function basics](https://amsi.org.au/teacher_modules/Quadratic_Function.html#The_Parabola__y_=_x2)
 2. [Using system of linear equations to find interpolation polynomial](https://en.wikipedia.org/wiki/Polynomial_interpolation)
+3. https://en.wikipedia.org/wiki/Vandermonde_matrix
