@@ -21,6 +21,7 @@ Most resources on this site are free or provided with a voluntary contrubution m
 
 1. [MIT ZoomNotes for Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/zoomnotes_18-010/)
 2. [Notes on Linear Algebra by Peter J. Cameron](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf)
+3. [Eigenvalues and eigenvectors](https://courses.engr.illinois.edu/cs357/sp2020/notes/ref-12-eigen.html)
 
 ## Online video courses
 
