@@ -53,3 +53,8 @@ Most resources on this site are free or provided with a voluntary contrubution m
 7. https://en.wikipedia.org/wiki/Jordan_normal_form
 8. https://en.wikipedia.org/wiki/Trace_(linear_algebra)
 9. https://en.wikipedia.org/wiki/Conformal_linear_transformation
+
+## Basic concepts
+
+1. (Quadratic function)[https://amsi.org.au/teacher_modules/Quadratic_Function.html#The_Parabola__y_=_x2]
+2. (Using system of linear equations to find interpolation)[https://en.wikipedia.org/wiki/Polynomial_interpolation]
