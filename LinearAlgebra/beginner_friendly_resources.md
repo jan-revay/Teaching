@@ -1,5 +1,7 @@
 # Linear algebra study resources (beginner friendly)
 
+Most resources on this site are free or provided with a voluntary contrubution model.
+
 ## Books
 
 1. [Linear Algebra by Jim Hefferon (leanpub)](https://leanpub.com/linalgebra) (free/voluntary contribution)
@@ -9,7 +11,7 @@
 
 ### More advanced books
 
-1. [Linear Algebra - As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/%7Eanne/linear_algebra/)
+1. [Linear Algebra - As an Introduction to Abstract Mathematics by Isaiah Lankham, Bruno Nachtergaele and Anne Schilling](https://www.math.ucdavis.edu/%7Eanne/linear_algebra/) (free)
 2. [Geometry for Programmers by Oleksandr Kaleniuk](https://www.manning.com/books/geometry-for-programmers)
 
 ## Notes (formulas & short summaries)
