@@ -4,6 +4,13 @@
 
 1. [Linear Algebra by Jim Hefferon (leanpub)](https://leanpub.com/linalgebra) (free/voluntary contribution)
 2. [Introduction to Linear Algebra, Sixth Edition (2023) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html) (certain sections of the book are freely avaliable)
+3. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
+4. 
+
+### More advanced books
+
+1. [Linear Algebra - As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/%7Eanne/linear_algebra/)
+2. [Geometry for Programmers by Oleksandr Kaleniuk](https://www.manning.com/books/geometry-for-programmers)
 
 ## Notes (formulas & short summaries)
 
@@ -23,3 +30,7 @@
 
 1. [Jim Heffero on proofs](https://jheffero.w3.uvm.edu/proofs/ibl-compact.pdf)
 2. 
+
+## Youtube playlists
+
+1. [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
