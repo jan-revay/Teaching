@@ -40,3 +40,13 @@ Most resources on this site are free or provided with a voluntary contrubution m
 ## Youtube playlists
 
 1. [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
+
+## Wikipedia
+
+1. https://en.wikipedia.org/wiki/Linear_map
+2. https://en.wikipedia.org/wiki/Cramer%27s_rule
+3. https://en.wikipedia.org/wiki/Scaling_(geometry)
+4. https://en.wikipedia.org/wiki/Shear_mapping
+5. https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
+6. https://en.wikipedia.org/wiki/Jordan_normal_form
+7. https://en.wikipedia.org/wiki/Trace_(linear_algebra)
