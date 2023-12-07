@@ -28,4 +28,7 @@
 
 * https://copyprogramming.com/howto/jump-between-thumb-and-arm?utm_content=cmp-true
 
+### ISA specificity
+
+* https://superuser.com/questions/1754983/is-the-arm-instruction-set-the-same-for-all-arm-processors
   
