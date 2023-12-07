@@ -57,6 +57,14 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 
 * https://profile.iiita.ac.in/bibhas.ghoshal/COA_2021/lecture_slides/arm_inst.pdf
 
+## Advanced
+
+* https://youtu.be/3ixTKrE8lv8?si=qUobO-OzHEfpImvC
+* [Paging in ARM](https://youtu.be/IJEiiByY0uI?si=1n00UlktJFSB4Abf)
+* [Thumb state](https://youtu.be/XbVONAOYKTw?si=hK_g3tlFmGjL5NLI)
+* [Engineering Funda](https://youtube.com/playlist?list=PLgwJf8NK-2e7nFEozQhZDZDSm09SwqbGP&si=F_y4U6JuxcikrJgl)
+* [The ARM University Program, ARM Architecture Fundamentals](https://youtu.be/7LqPJGnBPMM?si=4NCrJMGu6fc9abjp)
+
 ## Basics
 
 https://en.wikipedia.org/wiki/Endianness
