@@ -23,3 +23,9 @@
 * https://devblogs.microsoft.com/oldnewthing/20210623-00/?p=105351
 * https://devblogs.microsoft.com/oldnewthing/20210624-46/?p=105355
 * https://devblogs.microsoft.com/oldnewthing/20210625-00/?p=105369
+
+### Thumb2 vs. ARM encodings
+
+* https://copyprogramming.com/howto/jump-between-thumb-and-arm?utm_content=cmp-true
+
+  
