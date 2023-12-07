@@ -1,8 +1,14 @@
 # ARM
 
+https://en.wikipedia.org/wiki/ARM_architecture_family
+
 ## Online video courses
 
-* [freecodecamp.org course on ARM assembly language programming](https://youtu.be/gfmRrPjnEw4?si=L-u9Ivvs4pxhOklY) 
+* [freecodecamp.org course on ARM assembly language programming](https://youtu.be/gfmRrPjnEw4?si=L-u9Ivvs4pxhOklY)
+
+## Online courses (not video)
+
+* https://azeria-labs.com/writing-arm-assembly-part-1/
 
 
 ## Blogs
@@ -36,4 +42,20 @@
 ### ISA specificity
 
 * https://superuser.com/questions/1754983/is-the-arm-instruction-set-the-same-for-all-arm-processors
-  
+
+## VisUAL and VisUAL2 emulator
+
+* https://salmanarif.bitbucket.io/visual/
+* https://salmanarif.bitbucket.io/visual/supported_instructions.html
+* https://developer.arm.com/documentation/dui0552/a/BABCAEDD
+* https://developer.arm.com/documentation/dui0552/a/the-cortex-m3-instruction-set/instruction-set-summary?lang=en
+* https://developer.arm.com/documentation/dui0552/a/BABEHFEF
+* https://developer.arm.com/documentation/dui0552/a/CIHFDDHB#CIHEBCBI
+
+## Lecture notes
+
+* https://profile.iiita.ac.in/bibhas.ghoshal/COA_2021/lecture_slides/arm_inst.pdf
+
+## Basics
+
+https://en.wikipedia.org/wiki/Endianness
