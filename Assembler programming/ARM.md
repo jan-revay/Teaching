@@ -69,3 +69,5 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 ## Basics
 
 * https://en.wikipedia.org/wiki/Endianness
+
+#TODO add resources from my gdrive
