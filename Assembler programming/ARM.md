@@ -90,4 +90,8 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 
 ## ARM datasheets
 
-...
+* <https://github.com/jan-revay/Teaching/tree/main/Assembler%20programming/Datasheets>
+
+## Books
+
+* <https://www.amazon.com/Modern-Assembly-Language-Programming-Armv8/dp/1484262662>
