@@ -64,6 +64,7 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 * [Thumb state](https://youtu.be/XbVONAOYKTw?si=hK_g3tlFmGjL5NLI)
 * [Engineering Funda](https://youtube.com/playlist?list=PLgwJf8NK-2e7nFEozQhZDZDSm09SwqbGP&si=F_y4U6JuxcikrJgl)
 * [The ARM University Program, ARM Architecture Fundamentals](https://youtu.be/7LqPJGnBPMM?si=4NCrJMGu6fc9abjp)
+* [Rosetta stone method for learning assembly](https://youtu.be/vhyettT7sdA?si=bMD7zLJc5ZTIX-q-) 
 
 ## Basics
 
