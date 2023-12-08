@@ -96,4 +96,4 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 
 ## Books
 
-* <https://www.amazon.com/Modern-Assembly-Language-Programming-Armv8/dp/1484262662>
+* [Modern Arm Assembly Language Programming: Covers Armv8-A 32-bit, 64-bit, and SIMD 1st ed. Edition by Daniel Kusswurm](https://www.amazon.com/Modern-Assembly-Language-Programming-Armv8/dp/1484262662)
