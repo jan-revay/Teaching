@@ -46,6 +46,7 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 
 ## VisUAL and VisUAL2 emulator
 
+* https://scc416.github.io/Visual2-doc/
 * https://github.com/tomcl/visual2.github.io
 * https://salmanarif.bitbucket.io/visual/
 * https://salmanarif.bitbucket.io/visual/supported_instructions.html
