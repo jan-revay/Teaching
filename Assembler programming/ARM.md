@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 * [freecodecamp.org course on ARM assembly language programming](https://youtu.be/gfmRrPjnEw4?si=L-u9Ivvs4pxhOklY)
 * [LaurieWired](https://youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg&si=f-D8VZnF9Az6Y4Xd)
 
-## Online courses (not video)
+## Online courses (no video)
 
 * https://azeria-labs.com/writing-arm-assembly-part-1/
 
