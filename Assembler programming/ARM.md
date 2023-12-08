@@ -72,4 +72,8 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 
 * https://en.wikipedia.org/wiki/Endianness
 
+## Object file
+
+* https://en.wikipedia.org/wiki/Object_file
+
 #TODO add resources from my gdrive
