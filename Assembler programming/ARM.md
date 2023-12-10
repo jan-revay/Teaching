@@ -1,4 +1,4 @@
-# ARM
+# ARM (32-bit)
 
 https://en.wikipedia.org/wiki/ARM_architecture_family
 
