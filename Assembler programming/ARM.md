@@ -81,6 +81,7 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 * https://en.wikipedia.org/wiki/Code_segment
 * https://en.wikipedia.org/wiki/Data_segment
 * https://en.wikipedia.org/wiki/.bss
+* https://en.wikipedia.org/wiki/Loader_(computing)
 * https://en.wikipedia.org/wiki/Dynamic_linker
 * https://en.wikipedia.org/wiki/Linker_(computing)
 * https://en.wikipedia.org/wiki/Stack-based_memory_allocation (advanced, optional reading)
