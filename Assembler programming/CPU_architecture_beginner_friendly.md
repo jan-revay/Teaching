@@ -9,6 +9,8 @@
 ## Emulators
 
 1. [Johnny assembler](https://dev.inf-schule.de/content/12_rechner/4_johnny/johnny3/)
+2. <https://www.inf-schule.de/rechner/johnny>
+3. [www.inf-schule.de/ - How a computer works](https://www.inf-schule.de/rechner)
 
 ## Exercises
 
