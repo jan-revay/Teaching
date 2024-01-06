@@ -37,7 +37,7 @@
 2. Write a bubble sort algorithm in ARM32 assembler.
 3. Write a strcmp() algorithm in ARM32 assembler.
 4. Write a memcpy()
-5. Other <cstring> functions <ttps://en.cppreference.com/w/cpp/header/cstring>
+5. Other [<cstring>](https://cplusplus.com/reference/cstring/) functions <ttps://en.cppreference.com/w/cpp/header/cstring>
 6. Write a simple string find algorithm in ARM32 assembler.
 7. Write an array order reversal algorithm in ARM32 assembler.
 8. String replace
