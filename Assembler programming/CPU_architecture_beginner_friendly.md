@@ -33,16 +33,20 @@
 
 ### Assmbler coding
 
-1. Write a algorithm that finds a given value in an array.
-2. Write a bubble sort algorithm in ARM32 assembler.
-3. Write a strcmp() algorithm in ARM32 assembler.
-4. Write a memcpy()
-5. Other [cstring](https://cplusplus.com/reference/cstring/) functions...
-6. Write a simple string find algorithm in ARM32 assembler.
-7. Write an array order reversal algorithm in ARM32 assembler.
-8. String replace
-9. strstr()
-10. ...
+1. sum() - write an accumulate of an array wrt. +
+2. Write a algorithm that finds a given value in an array.
+3. Write a bubble sort algorithm in ARM32 assembler.
+4. Write a strcmp() algorithm in ARM32 assembler.
+5. Write a memcpy()
+6. Other [cstring](https://cplusplus.com/reference/cstring/) functions...
+7. Write a simple string find algorithm in ARM32 assembler.
+8. Write an array order reversal algorithm in ARM32 assembler.
+9. String replace
+10. strstr()
+11. strtoi()
+12. remove_if() for an array
+13. is_sorted()
+14. min()/max()
 
 ## Additional resources
 
