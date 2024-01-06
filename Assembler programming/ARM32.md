@@ -99,3 +99,7 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 ## Books
 
 * [Modern Arm Assembly Language Programming: Covers Armv8-A 32-bit, 64-bit, and SIMD 1st ed. Edition by Daniel Kusswurm](https://www.amazon.com/Modern-Assembly-Language-Programming-Armv8/dp/1484262662)
+
+## Exercises
+
+* What is object file? What sections does it usually have? What are they used for? (e. g. what is .bss section used for, what is .text segment used for etc...) 
