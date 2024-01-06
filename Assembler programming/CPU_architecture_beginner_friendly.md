@@ -50,5 +50,5 @@
 
 ## Additional resources
 
-<https://www.reddit.com/r/beneater/comments/ii113p/helpful_tips_and_recommendations_for_ben_eaters/>
-<https://www.instructables.com/Making-an-8-Bit-Computer/>
+* <https://www.reddit.com/r/beneater/comments/ii113p/helpful_tips_and_recommendations_for_ben_eaters/>
+* <https://www.instructables.com/Making-an-8-Bit-Computer/>
