@@ -12,7 +12,7 @@
 
 ### More detail
 
-* https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=XnyCnKDOmyujSy5W 
+* <https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=XnyCnKDOmyujSy5W>
 
 ### mmap() 
 
@@ -21,3 +21,4 @@
 ### Virtual memory and systems programming
 
 * <https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&si=42RkgXOank344cXG>
+* <https://youtube.com/playlist?list=PL2Yggtk_pK682HQdzxhL-J8nTYATqDkHQ&si=4G2bds4dj0vl3j0k>
