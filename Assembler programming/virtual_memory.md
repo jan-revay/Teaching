@@ -13,6 +13,7 @@
 ### More detail
 
 * <https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=XnyCnKDOmyujSy5W>
+* <https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=Rw12yl7--20VKFz3>
 
 ### mmap() 
 
