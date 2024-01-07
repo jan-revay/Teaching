@@ -13,3 +13,11 @@
 ### More detail
 
 * https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=XnyCnKDOmyujSy5W 
+
+### mmap() 
+
+* <https://youtu.be/8hVLcyBkSXY?si=rZ0tFw-TdfRInaEi>
+
+### Virtual memory and systems programming
+
+* <https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&si=42RkgXOank344cXG>
