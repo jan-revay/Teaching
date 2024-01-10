@@ -103,3 +103,8 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 ## Exercises
 
 * What is object file? What sections does it usually have? What are they used for? (e. g. what is .bss section used for, what is .text segment used for etc...) 
+
+## ARM history (non-essential resource, just for fun)
+
+* <https://youtu.be/nIwdhPOVOUk?si=MJa8Y-1BaTW8S9AW>
+* <https://youtu.be/vx1-6yRAGk0?si=pppQZuXPkp_wJ-Br>
