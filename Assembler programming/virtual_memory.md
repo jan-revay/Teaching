@@ -31,3 +31,7 @@
 ### Advanced
 
 * <https://people.kernel.org/linusw/how-the-arm32-kernel-starts>
+
+## Segmentation
+
+* <https://youtu.be/bqakq-RfzUc?si=TTCwHNohS2PWiOGm>
