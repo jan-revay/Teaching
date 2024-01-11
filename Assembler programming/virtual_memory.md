@@ -26,7 +26,7 @@
 
 * <https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&si=42RkgXOank344cXG>
 * <https://youtube.com/playlist?list=PL2Yggtk_pK682HQdzxhL-J8nTYATqDkHQ&si=4G2bds4dj0vl3j0k>
-* 
+* <https://youtu.be/dOiA2nNJpc0?si=QbsJmQQwfMVebRtJ>
 
 ### Advanced
 
