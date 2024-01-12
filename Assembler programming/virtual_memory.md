@@ -1,5 +1,9 @@
 
-# Virtual memory
+# Virtual memory & paging
+
+<https://en.wikipedia.org/wiki/Page_table>
+<https://wiki.osdev.org/Paging>
+<https://wiki.osdev.org/Page_Tables>
 
 ## Video
 
@@ -35,3 +39,7 @@
 ## Segmentation
 
 * <https://youtu.be/bqakq-RfzUc?si=TTCwHNohS2PWiOGm>
+
+## Multilevel page tables
+
+* <https://www.baeldung.com/cs/multi-level-page-tables#:~:text=The%20idea%20behind%20multi%2Dlevel,them%20to%20RAM%20when%20needed.>
