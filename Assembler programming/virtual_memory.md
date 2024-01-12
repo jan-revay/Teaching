@@ -1,9 +1,9 @@
 
 # Virtual memory & paging
 
-<https://en.wikipedia.org/wiki/Page_table>
-<https://wiki.osdev.org/Paging>
-<https://wiki.osdev.org/Page_Tables>
+<https://en.wikipedia.org/wiki/Page_table>  
+<https://wiki.osdev.org/Paging>  
+<https://wiki.osdev.org/Page_Tables>  
 
 ## Video
 
