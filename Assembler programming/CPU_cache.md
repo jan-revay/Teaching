@@ -7,3 +7,7 @@
 * https://en.m.wikipedia.org/wiki/Bus_snooping
 * https://en.m.wikipedia.org/wiki/MSI_protocol
 * https://en.m.wikipedia.org/wiki/Power_law_of_cache_misses
+
+## Power law of CPU cache misses
+
+10.1147/rd.183.0194
