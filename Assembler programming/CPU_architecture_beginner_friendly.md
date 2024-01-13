@@ -14,6 +14,13 @@
 * <https://en.m.wikipedia.org/wiki/Register_file>
 * <https://en.m.wikipedia.org/wiki/Sense_amplifier>
 
+### MAR/MBR
+
+
+* <https://en.m.wikipedia.org/wiki/Memory_address_register>
+* <https://en.m.wikipedia.org/wiki/Memory_buffer_register>
+
+
 ## Emulators
 
 1. [Johnny assembler](https://dev.inf-schule.de/content/12_rechner/4_johnny/johnny3/)
