@@ -5,4 +5,5 @@
 * https://en.m.wikipedia.org/wiki/Cache_coherence
 * https://en.m.wikipedia.org/wiki/Directory-based_coherence
 * https://en.m.wikipedia.org/wiki/Bus_snooping
-* https://en.m.wikipedia.org/wiki/MSI_protocol 
+* https://en.m.wikipedia.org/wiki/MSI_protocol
+* https://en.m.wikipedia.org/wiki/Power_law_of_cache_misses
