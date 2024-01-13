@@ -6,6 +6,13 @@
 2. [Ben Eater - Building an 8-bit breadboard computer! - videos](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=qTbTygQdp7m_kmk0)
 3. [Ben Eater - Building an 8-bit breadboard computer! - web](https://eater.net/8bit)
 
+## Memory
+
+### Register
+
+<https://en.m.wikipedia.org/wiki/Processor_register>
+
+
 ## Emulators
 
 1. [Johnny assembler](https://dev.inf-schule.de/content/12_rechner/4_johnny/johnny3/)
