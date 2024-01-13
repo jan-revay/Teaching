@@ -12,6 +12,7 @@
 
 * <https://en.m.wikipedia.org/wiki/Processor_register>
 * <https://en.m.wikipedia.org/wiki/Register_file>
+* <https://en.m.wikipedia.org/wiki/Sense_amplifier>
 
 ## Emulators
 
