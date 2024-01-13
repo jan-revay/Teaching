@@ -62,6 +62,7 @@
 12. remove_if() for an array
 13. is_sorted()
 14. min()/max()
+15. binary search
 
 ## Additional resources
 
