@@ -21,6 +21,7 @@
 * <https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=Rw12yl7--20VKFz3>
 * <https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=EmqpwLdyYFEdOEot>
 * <https://youtu.be/FcLFzIJfPwQ?si=P5irm6Ht9yS_whD5>
+* <https://youtu.be/2RhGMpY18zw?si=cRmTO6YK4tTCpJ3a>
 
 ### mmap() 
 
