@@ -1,5 +1,11 @@
 # Advanced resources on CPU architecture
 
+## Books
+
+- [Computer Architecture - A Quantitative Approach - 6th Edition - November 23, 2017; Authors: John L. Hennessy, David A. Patterson](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture,%20Sixth%20Edition_%20A%20Quantitative%20Approach%20(%20PDFDrive%20).pdf)
+
+## Articles
+
 * https://en.wikipedia.org/wiki/Register_renaming
 * https://en.wikipedia.org/wiki/Hazard_(computer_architecture)#Data_hazards
 * https://stackoverflow.com/questions/6079215/if-registers-are-so-blazingly-fast-why-dont-we-have-more-of-them
