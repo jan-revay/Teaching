@@ -5,11 +5,12 @@ Most resources on this site are free or provided with a voluntary contrubution m
 ## Books
 
 1. [Linear Algebra by Jim Hefferon (leanpub)](https://leanpub.com/linalgebra) (free/voluntary contribution)
-2. [Introduction to Linear Algebra, Sixth Edition (2023) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html) (certain sections of the book are freely avaliable)
+2. [Introduction to Linear Algebra, Sixth Edition (2023) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html) (certain sections of the book are freely available)
 3. [Linear Algebra for Everyone 2020 by Gilbert Strang](https://math.mit.edu/~gs/everyone/)
 4. [Elementary Linear Algebra 10th Edition by Howard Anton](https://www.amazon.com/Elementary-Linear-Algebra-Howard-Anton/dp/0470458216)
 5. [Linear Algebra Done Right, fourth edition by Sheldon Axler ](https://linear.axler.net/) (online version in this link is free [direct link](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf))
 6. [Linear Algebra 5th Edition by Stephen Friedberg, Arnold Insel, Lawrence Spence](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241)
+7. [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares Stephen Boyd and Lieven Vandenberghe (Free from this site)](https://web.stanford.edu/~boyd/vmls/)
 
 ## Online interactive courses
 1. [A first course in linear algebra](http://linear.ups.edu/html/fcla.html)
