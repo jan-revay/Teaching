@@ -12,10 +12,16 @@ Most resources on this site are free or provided with a voluntary contrubution m
 6. [Linear Algebra 5th Edition by Stephen Friedberg, Arnold Insel, Lawrence Spence](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241)
 7. [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares Stephen Boyd and Lieven Vandenberghe (Free from this site)](https://web.stanford.edu/~boyd/vmls/)
 
-## Online interactive courses
+## Online courses (free)
 1. [A first course in linear algebra](http://linear.ups.edu/html/fcla.html)
 2. [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares Stephen Boyd and Lieven Vandenberghe (Free YT course with a book (see above))](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&si=UnrtzFf-UQ74e_P9) , [book](https://web.stanford.edu/~boyd/vmls/)
-3. [Brilliant](https://brilliant.org/) 
+3. [Brilliant](https://brilliant.org/)
+
+## Online courses (payed)
+
+1. [Become a Linear Algebra Master](https://www.udemy.com/course/linear-algebra-course/?couponCode=2021PM20)
+2. [Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
+3. [Linear Algebra and Geometry 1](https://www.udemy.com/course/linear-algebra-and-geometry-1/?couponCode=2021PM20)
 
 
 ### More advanced books
