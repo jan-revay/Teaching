@@ -14,7 +14,8 @@ Most resources on this site are free or provided with a voluntary contrubution m
 
 ## Online interactive courses
 1. [A first course in linear algebra](http://linear.ups.edu/html/fcla.html)
-2. [Brilliant](https://brilliant.org/) 
+2. [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares Stephen Boyd and Lieven Vandenberghe (Free YT course with a book (see above))](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&si=UnrtzFf-UQ74e_P9) , [book](https://web.stanford.edu/~boyd/vmls/)
+3. [Brilliant](https://brilliant.org/) 
 
 
 ### More advanced books
