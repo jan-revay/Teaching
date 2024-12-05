@@ -3,6 +3,7 @@
 ## Articles
 
 - https://en.wikipedia.org/wiki/Qualified_electronic_signature
+- http://epodpis.tuke.sk/digit_podpis.html
 
 ## Slovak bachelor's thesis that explains the whole algorithm on a few pages
 
