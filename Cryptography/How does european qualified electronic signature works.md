@@ -5,6 +5,15 @@
 - https://en.wikipedia.org/wiki/Qualified_electronic_signature
 - http://epodpis.tuke.sk/digit_podpis.html
 - https://www.digicert.com/faq/signature-trust/what-is-a-qualified-electronic-signature
+- https://qesportal.sk/Portal/en/Info/Legislation
+- https://www.docusign.com/en-gb/blog/types-digital-signature-aes-qes-ses-explained
+- https://eidas.disig.sk/en/qualified-certificates/qc-for-electronic-signature/
+- https://www.signicat.com/blog/qualified-electronic-signature
+- https://www.cm.com/glossary/qualified-electronic-signature/
+- https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eSignature+FAQ
+- https://fynk.com/en/electronic-signatures/qualified-electronic-signature-qes/
+- https://www.zealid.com/en/what-is-qualified-electronic-signature
+- https://www.idnow.io/glossary/qualified-electronic-signature-qes/
 
 ## Slovak bachelor's thesis that explains the whole algorithm on a few pages
 
