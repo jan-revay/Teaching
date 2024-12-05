@@ -16,6 +16,10 @@
 - https://www.idnow.io/glossary/qualified-electronic-signature-qes/
 - https://eidas.disig.sk/sk/poskytovatel/politiky-a-dokumenty/
 
+- http://epodpis.tuke.sk/download/uncitral_ep_model_law.pdf
+- http://epodpis.tuke.sk/download/eu_ep_dir_99_en.pdf
+- http://epodpis.tuke.sk/download/el_podpis.pdf
+
 ## Slovak bachelor's thesis that explains the whole algorithm on a few pages
 
 - https://github.com/jan-revay/Teaching/blob/main/Cryptography/Ako_funguje_KEP_BP.pdf
