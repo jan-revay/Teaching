@@ -4,6 +4,7 @@
 
 - https://en.wikipedia.org/wiki/Qualified_electronic_signature
 - http://epodpis.tuke.sk/digit_podpis.html
+- https://www.digicert.com/faq/signature-trust/what-is-a-qualified-electronic-signature
 
 ## Slovak bachelor's thesis that explains the whole algorithm on a few pages
 
