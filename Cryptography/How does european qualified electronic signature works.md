@@ -14,6 +14,7 @@
 - https://fynk.com/en/electronic-signatures/qualified-electronic-signature-qes/
 - https://www.zealid.com/en/what-is-qualified-electronic-signature
 - https://www.idnow.io/glossary/qualified-electronic-signature-qes/
+- https://eidas.disig.sk/sk/poskytovatel/politiky-a-dokumenty/
 
 ## Slovak bachelor's thesis that explains the whole algorithm on a few pages
 
